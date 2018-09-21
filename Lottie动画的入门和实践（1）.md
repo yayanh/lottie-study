@@ -2,9 +2,9 @@
 
 ## Lottie简介
 
-	lottie是Airbnb公司开源的一个动画库，能够在Android，iOS和web上解析AE通过Bodymovin导出的json文件。将解析后的帧数据使用svg，canvas，html三种方式显示处理。
+lottie是Airbnb公司开源的一个动画库，能够在Android，iOS和web上解析AE通过Bodymovin导出的json文件。将解析后的帧数据使用svg，canvas，html三种方式显示处理。
 	
-	本文主要介绍lottie在web中的使用。
+本文主要介绍lottie在web中的使用。
 
 ## HelloWorld
 
